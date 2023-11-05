@@ -87,4 +87,3 @@ Set appropriate support and confidence thresholds to control the sensitivity of 
  This project provides a practical implementation of Market Basket Analysis, allowing you to discover item associations and patterns within your own transaction data. Follow the Roadmap instructions in the README to get started with your analysis.
 
 Feel free to customize this README to suit the specific details and structure of our  market basket analysis project. Providing clear and concise information will make it easier for users and collaborators to understand and use our project effectively.
-
