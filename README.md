@@ -1,4 +1,4 @@
-#AI_PHASE 5
+## AI_PHASE 5
 
 # PROJECT OVERVIEW
  This project is focused on performing Market Basket Analysis, a data mining and analytics technique used by retailers and e-commerce businesses to uncover associations and patterns within customer purchase data. The primary objective is to identify items that are frequently purchased together, which can help businesses optimize their product placement, marketing strategies, and recommendation systems.
